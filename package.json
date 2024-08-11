@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "name": "paris2024-results-read",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {}
+}
